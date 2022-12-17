@@ -110,6 +110,15 @@ tr:nth-child(even) {
 }
 
 
+.alert {
+    text-align: center;
+    height: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #e7a310; /* Red */
+    color: white;   
+} 
+
 #main-footer{
     background: rgb(153, 130, 130);
     color: #f4f4f4;
